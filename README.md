@@ -63,7 +63,7 @@ src/
 
 ### **1️⃣ Clone the repository**
 
-git clone [https://github.com/YOUR_USERNAME/job-listing-ui.git](https://github.com/Srinivas2326/Job-Listing-UI.git)
+git clone https://github.com/Srinivas2326/Job-Listing-UI.git
 
 ### **2️⃣ Navigate into the project folder**
 
