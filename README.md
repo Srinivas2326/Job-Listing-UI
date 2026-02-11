@@ -1,6 +1,6 @@
 # 🚀 Job Listing UI – Frontend Assignment
 
-🔗 **Live Demo:** [https://your-project-name.vercel.app  ](https://job-listing-ui-ochre.vercel.app/)
+🔗 **Live Demo:** https://job-listing-ui-ochre.vercel.app/
 
 
 ## **📌 Project Overview**
