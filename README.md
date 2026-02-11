@@ -47,15 +47,21 @@ The objective of this project is to demonstrate:
 
 ## **📂 Project Structure**
 src/
+
 │── components/
+
 │ ├── JobCard.jsx
+
 │ ├── Filters.jsx
 │
 │── data/
+
 │ ├── jobs.js
 │
 │── App.js
+
 │── App.css
+
 │── main.jsx / index.js
 
 
@@ -118,4 +124,5 @@ If given more time, I would:
 ## **👨‍💻 Author**
 
 Peddada Srinivas 
+
 Frontend Developer  
