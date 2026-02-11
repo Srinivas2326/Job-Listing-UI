@@ -62,7 +62,7 @@ src/
 
 │── App.css
 
-│── main.jsx / index.js
+│── main.jsx
 
 
 ## **⚙️ Setup Instructions**
