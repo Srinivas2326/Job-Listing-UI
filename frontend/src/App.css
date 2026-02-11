@@ -1,0 +1,131 @@
+/* Soft Light Background */
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  background: linear-gradient(to right, #f9fbfd, #eef3f9);
+}
+
+/* Main Container */
+.container {
+  padding: 40px 20px;
+  max-width: 1100px;
+  margin: auto;
+}
+
+/* Title */
+h1 {
+  text-align: center;
+  margin-bottom: 35px;
+  color: #2c3e50;
+  font-weight: 600;
+}
+
+/* Filters Section */
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin-bottom: 35px;
+  justify-content: center;
+}
+
+/* Inputs and Select */
+.filters input,
+.filters select {
+  padding: 10px 14px;
+  font-size: 14px;
+  border-radius: 8px;
+  border: 1px solid #dbe3ec;
+  background-color: #ffffff;
+  min-width: 180px;
+  transition: all 0.2s ease;
+}
+
+.filters input:focus,
+.filters select:focus {
+  border-color: #4da3ff;
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(77, 163, 255, 0.15);
+}
+
+/* Buttons */
+.filters button {
+  padding: 10px 16px;
+  font-size: 14px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  font-weight: 500;
+}
+
+/* Sort Button - Light Blue */
+.sort-btn {
+  background-color: #4da3ff;
+  color: white;
+}
+
+.sort-btn:hover {
+  background-color: #3390f0;
+  transform: translateY(-2px);
+}
+
+/* Clear Button - Soft Red */
+.clear-btn {
+  background-color: #ff6b6b;
+  color: white;
+}
+
+.clear-btn:hover {
+  background-color: #e55050;
+  transform: translateY(-2px);
+}
+
+/* Job Grid */
+.job-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 22px;
+}
+
+/* Job Card */
+.job-card {
+  background: #ffffff;
+  padding: 22px;
+  border-radius: 14px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
+}
+
+.job-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 22px rgba(0, 0, 0, 0.08);
+}
+
+.job-card h3 {
+  margin-top: 0;
+  margin-bottom: 12px;
+  color: #34495e;
+  font-size: 18px;
+}
+
+.job-card p {
+  margin: 6px 0;
+  font-size: 14px;
+  color: #5c6b7a;
+}
+
+/* Highlight Search */
+mark {
+  background-color: #fff3a3;
+  padding: 2px 5px;
+  border-radius: 4px;
+}
+
+/* No Jobs Message */
+.no-jobs {
+  text-align: center;
+  font-size: 16px;
+  color: #7f8c8d;
+  margin-top: 20px;
+}
