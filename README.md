@@ -2,7 +2,6 @@
 
 🔗 **Live Demo:** [https://your-project-name.vercel.app  ](https://job-listing-ui-ochre.vercel.app/)
 
-.....................................................................................
 
 ## **📌 Project Overview**
 
@@ -16,7 +15,6 @@ The objective of this project is to demonstrate:
 - Filtering and sorting logic
 - Basic UI/UX understanding
 
-.....................................................................................
 
 ## **✨ Features Implemented**
 
@@ -38,7 +36,6 @@ The objective of this project is to demonstrate:
 - Minimal light theme design
 - Smooth hover effects
 
-.....................................................................................
 
 ## **🛠 Tech Stack**
 
@@ -47,7 +44,6 @@ The objective of this project is to demonstrate:
 - CSS (Flexbox & Grid for responsiveness)
 - Static JSON mock data
 
-.....................................................................................
 
 ## **📂 Project Structure**
 src/
@@ -62,7 +58,6 @@ src/
 │── App.css
 │── main.jsx / index.js
 
-.....................................................................................
 
 ## **⚙️ Setup Instructions**
 
@@ -90,7 +85,6 @@ The app will run locally at:
 http://localhost:5173
 
 
-.....................................................................................
 
 ## **🧠 Implementation Approach**
 
@@ -101,7 +95,6 @@ http://localhost:5173
 - Added UX enhancements such as hover effects and a clear filters option.
 - Designed a minimal light theme for clean visual experience.
 
-.....................................................................................
 
 ## **📌 Assumptions**
 
@@ -109,7 +102,6 @@ http://localhost:5173
 - No backend or database integration was needed.
 - The focus was on frontend logic and UI responsiveness.
 
-.....................................................................................
 
 ## **🔮 Future Improvements**
 
@@ -122,7 +114,6 @@ If given more time, I would:
 - Improve accessibility (ARIA labels)
 - Add unit testing
 
-.....................................................................................
 
 ## **👨‍💻 Author**
 
